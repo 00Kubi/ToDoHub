@@ -47,7 +47,7 @@ Aby rozpocząć korzystanie z ToDoHub, wykonaj następujące kroki:
 4. **Uruchom aplikację:**
 
    ```bash
-   python main.py
+   python task_manager.py
    ```
 
 ## Użytkowanie
