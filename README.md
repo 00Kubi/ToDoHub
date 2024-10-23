@@ -27,7 +27,7 @@ Aby rozpocząć korzystanie z ToDoHub, wykonaj następujące kroki:
 1. **Sklonuj repozytorium:**
 
    ```bash
-   git clone https://github.com/yourusername/ToDoHub.git
+   git clone https://github.com/00Kubi/ToDoHub.git
    ```
 
 2. **Przejdź do katalogu projektu:**
